@@ -79,8 +79,8 @@ class OddballParticle implements Particle
   }
   public void move()
   {
-    myX = myX + 0.6;
-    myY = myX + 0.6;
+    myX = myX + 3.6;
+    myY = myX + 3.6;
   }
 }
 
